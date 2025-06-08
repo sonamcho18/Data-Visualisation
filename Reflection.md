@@ -71,4 +71,4 @@ This project provided a hands-on exploration of integrating powerful charting li
 
 The balance between ease of use (Recharts) and advanced control (Chart.js) taught me to assess tools based on project scope. Going forward, I’ll be more strategic in selecting the right visualization tools depending on data complexity, interactivity needs, and performance expectations.
 
-This practical reinforced how visual storytelling through charts can significantly elevate user experience and decision-making in frontend development.
+And finally this practical reinforced how visual storytelling through charts can significantly elevate user experience and decision-making in frontend development.
